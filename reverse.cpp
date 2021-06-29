@@ -1,3 +1,5 @@
+/* this program contains logic  to revrse the array in c+*/
+
 #include<iostream>
 #define size 7
 int* reverse_array(int array[]);
